@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GK876OKi9ArfZpDIkfUr5C6PAe96rIWD1NAG2/y+jAxVXBriP+Ps2IlD/if+J4OeUEnGXE0vqgpq4viMPMp6nw==",
+  "success": true,
+  "projectFilePath": "/Users/furkanbektas/development/CaseStudy/Business/Business.csproj",
+  "expectedPackageFiles": [
+    "/Users/furkanbektas/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
